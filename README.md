@@ -1,6 +1,6 @@
 # PowerBi_Dashboard_AwesomeChocolates
 
-## This Power Bi dashboard consolidates sales data from various geographic regions, products, and salespersons, helping stakeholders quickly derive insights to inform business decisions.
+#### This Power Bi dashboard consolidates sales data from various geographic regions, products, and salespersons, helping stakeholders quickly derive insights to inform business decisions.
 
 * **Consolidated Sales Data**: Combines data from multiple geographic regions, products, and salespersons for a holistic view.
 * **Interactive Visualizations**: Includes dynamic charts and graphs, allowing users to filter and explore data in real-time.
